@@ -12,10 +12,11 @@ users a P2 license in Entra ID.<br />
 - Windows 11
 <h2>Assigned Licenses</h2>
 <p>
-<img width="1404" height="709" alt="image" src="https://github.com/userattachments/assets/b56dd5be-9d99-455c-971b-87b868587458" />
+<img width="2856" height="1458" alt="image" src="https://github.com/user-attachments/assets/f89dc843-9a28-4faa-96a4-75fb1e1e78d0" />
+
 </p>
 <p>
-Assigned P2 license to user Chris Walker.
+Assigned P2 license to user Jaylen Harris.
 </p>
 <br />
 <p>

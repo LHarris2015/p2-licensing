@@ -19,9 +19,10 @@ Assigned P2 license to user Jaylen Harris.
 </p>
 <br />
 <p>
-<img width="1441" height="735" alt="image" src="https://github.com/userattachments/assets/39cc0299-8264-4329-abe8-4323398beba4" />
+  <img width="2856" height="1458" alt="image" src="https://github.com/user-attachments/assets/c02f0883-629d-4bf7-b6cc-5510bab25dea" />
+
 </p>
 <p>
-Assigned P2 license to user Jordan Lee.
+Assigned P2 license to user James Brown.
 </p>
 <br />
